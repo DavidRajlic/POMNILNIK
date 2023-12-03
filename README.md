@@ -1,3 +1,3 @@
 # POMNILNIK
 
-Ustvarjanje lastnega malloca (memory allocation) in free funkcije
+Creating my own malloc (memory allocation) and free function 
